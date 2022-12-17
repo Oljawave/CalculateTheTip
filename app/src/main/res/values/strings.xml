@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="distance_in_km">Distance in kilometers</string>
+    <string name="how_was_the_service">What unit of measure do you want to convert to?</string>
+    <string name="to_miles">Miles</string>
+    <string name="to_meters">Meters</string>
+    <string name="to_feet">Feet</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="converting">Coverting</string>
+</resources>
